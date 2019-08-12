@@ -97,7 +97,7 @@
     "clang-format": "1.2.3",
     "commander": "^2.20.0",
     "commitizen": "^4.0.3",
-    "core-js": "^2.6.5",
+    "core-js": "^3.2.1",
     "cz-conventional-changelog": "^3.0.2",
     "danger": "^9.1.4",
     "eslint": "^6.0.1",
